@@ -32,7 +32,6 @@
 //     return L.marker(latlng)
 //     .bindPopup("<h2>" + feature.properties.city + "</h2>");
 //   }
-
 // }).addTo(map);
 
 
